@@ -15,16 +15,13 @@ body {
 
 
 h1 {
-    background-color:lightblue;
-    color: #c88a9e;
-    border-color: black;
-    border-width: 10px;
-    border-style: solid;
-    margin: 20px auto;
+    background-color: #c6c7c9;        
+    color: white;                     
+    border-left: 10px solid #e74c3c;  
+    padding: 8px;
+    margin: 10px auto 25px auto;
     text-align: center;
-  
-   
-     }
+}
 
 img {
     border: 5px solid black;
@@ -43,11 +40,10 @@ ul {
 }
 
 li {
-    display:inline;
-     border: 2px solid black;
-    padding: 5px 10px;
-    margin: 0 5px;
-
+    display: inline;
+    border: 1px solid #333333;        
+    padding: 3px 4px;               
+    margin: 0 2px;                   
 }
 a {
     color: inherit; 
