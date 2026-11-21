@@ -10,18 +10,19 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
+    overflow: hidden
     
 }
 
 
 h1 {
-    background-color:lightblue;
-    color: #c88a9e;
-    border-color: black;
-    border-width: 10px;
-    border-style: solid;
+  background-color: #cccccc;
+    color: white;
+   border-left: 10px solid #e74c3c;
     margin: 20px auto;
     text-align: center;
+    padding: 5px;
+    margin: 20px; 15px;
   
  
      }
@@ -44,12 +45,12 @@ ul {
 
 li {
     display:inline;
-     border: 2px solid black;
-    padding: 5px 10px;
-    margin: 0 5px;
+    border: 1px solid black;
+    padding: 2px 4px;
+    margin: 0 3px;
 
 }
 a {
-    color: inherit; 
+
     
 }
